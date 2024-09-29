@@ -29,11 +29,11 @@
 
 ## javascript
 
-| 类型 | 级别     | 名称  | 链接                                                            |
-|:---|------------|:---:|:--------------------------------------------------------------|
-| 书籍 | 入门基础       | javascript 入门|  [javascript 入门](https://wangdoc.com/javascript/)             |
-| 书籍 | 入门基础       | ECMAScript 6 入门|  [ECMAScript 6 入门 阮一峰]https://es6.ruanyifeng.com/             |
-| 视频 | 入门基础       | JavaScript基础&实战|  [尚硅谷JavaScript基础&实战](https://www.bilibili.com/video/BV1mG411h7aD) |
+| 类型 | 级别     | 名称  | 链接                                                                |
+|:---|------------|:---:|:------------------------------------------------------------------|
+| 书籍 | 入门基础       | javascript 入门| [javascript 入门](https://wangdoc.com/javascript/)                  |
+| 书籍 | 入门基础       | ECMAScript 6 入门| [ECMAScript 6 入门 阮一峰](https://es6.ruanyifeng.com/)                |
+| 视频 | 入门基础       | JavaScript基础&实战| [尚硅谷JavaScript基础&实战](https://www.bilibili.com/video/BV1mG411h7aD) |
 
 
 
